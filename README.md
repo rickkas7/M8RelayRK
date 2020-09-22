@@ -1,2 +1,4 @@
-# M8RelayRK
-Particle library for Tracker One M8 relay application note boards
+# M8 Relay Library
+
+This is the library that goes with the M8 Tracker Relay hardware design. See the application note for more information.
+
